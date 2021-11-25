@@ -1,0 +1,4 @@
+
+module add trimal/1.4.1
+
+trimal -in inputfile.faa -out outputfile.faa -automated1

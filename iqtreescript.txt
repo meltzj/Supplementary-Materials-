@@ -1,0 +1,5 @@
+
+
+module load iqtree/2.0.4
+
+iqtree-omp -st AA -bb 10000 --bnni -m MFP+EX_EHO -nt 4

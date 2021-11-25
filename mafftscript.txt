@@ -1,0 +1,4 @@
+
+module add mafft/7.407
+
+mafft-linsi --thread 4 --bl 30 inputfile.faa > outputfile.faa

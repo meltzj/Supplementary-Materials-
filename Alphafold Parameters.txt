@@ -1,0 +1,1 @@
+--homooligomer 1 --use_turbo --use_ptm --max_recycle 48 --tol 1
